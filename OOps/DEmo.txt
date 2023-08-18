@@ -1,0 +1,35 @@
+class 								Abstract class 							Interface 
+class A{}							abstarct class A{}						Interface I{}
+
+we can create a obj 						No we cant 							no 
+
+we can have construtro 						we can have construtro						no  						
+
+
+can we have abstract method ? NO 				yes we can have abstarct + non abstract 			only abstracts , no with body
+		
+
+can we hide the implementation ? NO 				Yes ? yes can , How ? 						Yes we can 
+
+no much security : 0 % 						yes we have 0-100% 						100% abstarction ? why ?
+																it only contaice abstartc methods 
+
+
+int a;								int a;								int =100;bcz no constructor to init
+
+
+Multyple inheritance ? no not support 				no not suport 							yes it will support 
+ 
+
+OOPs : 
+		inheritance 
+		Polymorphism 
+		Anstraction
+			2 ways 
+				Abstaract class 
+				interface 
+		Encupulation 
+			what ? 
+			why ? 
+			where  ? 
+			how to use it ? 

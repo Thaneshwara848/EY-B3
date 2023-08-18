@@ -1,0 +1,242 @@
+
+
+Install the Both in 5 minuts  
+
+JDK :https://download.oracle.com/java/18/archive/jdk-18.0.2.1_windows-x64_bin.exe (sha256)
+
+Eclips :  https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-06/R/eclipse-inst-jre-win64.exe
+
+JDK : 
+		Java Developmemt Kit 
+
+			Dev application (lib ) + JRE = JDK 
+
+JRE : 
+		java Run time evn 
+
+			Just for run : but not able to deverlop 
+				we can run with help of JVM 
+
+JVM :
+		java Virtual machin 
+
+			Job  ? 
+				it will load the class 
+				it will verify 
+				it will allo you to run or execuet the program 
+
+
+Statements 
+lloping 
+Jumping 
+
+Opeatros : 
+	uniary 
+	binary 
+	tarnary 
+Data Types : 
+	premitive 
+	non premetive 
+
+class and objects : 
+	
+	COnstructroe 
+	methhos : 
+
+Sopl/popl/
+
+
+OOps : Object Oriented programing lang 
+
+		Inheritance 
+		Polymorphism 
+		Abstarction 
+		Encupulation 
+
+
+1) 600-700 : 
+		machin level lang  (Binary )
+
+1550 : 01010111010111010
+15 :0101010 
+====
+30: 1010101010
+
+
+
+Assembly levl lang 
+
+
+Ax 10 
+BX 15
+ADD AX, BX 
+
+ 
+
+
+
+
+				(Platform Depedent)		indepedent 
+C (SOPL/POPL + OOPL (++)) ===== > C++ (OOPL )	
+
+============ C#(OOPL)			PAID 
+========> Java (OOPL)			FREE(OPEN SOURCE)
+=======> Python (OOPL)			FREE(OPEN SOURCE)
+
+		
+		jAVA : 
+			
+JAVA 								PYTHON 
+
+
+1)
+Progamming 							Scripting 
+
+2)
+Prog 
+	compile 
+obj 								code 
+	
+	intre[prete 							intepert 
+Run 								run 
+
+
+3)Slow 								Fast 
+
+
+
+4).class or encprition						less 
+	Security 
+
+
+10 lines 							100 lines 
+spring security 
+
+
+AI /ML : 
+	Python 
+
+
+
+JAVA : 
+	OOPL
+
+			 
+
+
+
+
+
+
+
+Write A PROGram Phone number validation : 
+
+
+	9740435150 
+
+	First Char : must be starts from 9/8/7 
+	length must be 10  dig
+	sum of the total 10 dig is equly to 50 then it a lucy numbr: valid and lucky nuumber 
+
+
+	valid number 
+
+	invalid number 
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				JAVA 
+
+
+java and its basics 
+	OOPS : 
+			Inheritance 
+			Ploymarphism 
+			Abstraction 
+			Encupulation 
+
+	Access modifiers : 
+		pakages : 
+			public 
+			private 
+			protected 
+			default 
+
+
+	Non Access Modifiers : 
+		Abstract 
+		static : its a keyword , we can access without creating a object ....!
+		final 
+
+
+	Exception handle 
+		2 types 
+			1) Compile time Exception / Checked exception  
+				Ex: 	IOException
+					SQL Exception 
+					FileNotFoundException
+					etc....!
+			2) Run TIme Exception     / uncheck excpetion 
+				Ex: 	InoutMisMatchException
+					ArethemeaticException
+					NullPointerException
+					ArrayIndexOutOfBoundsException
+					NumberFormatException
+					
+
+
+			How to handle ? 
+			2 ways 
+				1: try and Catch , finally 
+				2) Throws , Throw 
+
+Error :  can not be Handeled 
+Exception : can be handeled 
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
