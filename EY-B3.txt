@@ -185,6 +185,7 @@ java and its basics
 		static : its a keyword , we can access without creating a object ....!
 		final 
 
+	
 
 	Exception handle 
 		2 types 
