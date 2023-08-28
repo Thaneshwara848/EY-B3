@@ -1,0 +1,47 @@
+{{company}} operates
+<br>
+
+
+<input type="submit" (click)="abc()">
+<br>
+
+<img [src]="myimg" style="width: 30px;height: 50px;;">
+<hr>
+
+
+Name :<input type="text" #myname>
+<input type="submit" (click)="xyz(myname.value)">
+
+<br>
+
+{{count}}<br>
+<i class="fa fa-shopping-cart" style="font-size:48px;color:red"></i>
+<br><br>
+
+
+<input type="submit" value="ADD Cart" (click)="increment()">
+<input type="submit" value="Decrement" (click)="decrement()"><br>
+========================================================================<br>
+
+
+
+Principal :<input type="text" name="pri" #pri><br>
+Time :<input type="text" name="time" #time><br>
+Rate of Int :<input type="text" name="roi" #roi><br>
+
+EMI :<input type="text" value={{emi}}><br>
+Total :<input type="text" value={{total}}><br>
+
+<input type="submit" value="Caculate" (click)="cal(pri.value,time.value,roi.value)">
+
+
+
+
+
+
+
+
+
+
+
+
