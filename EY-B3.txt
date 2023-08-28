@@ -1,6 +1,20 @@
-
-
 Install the Both in 5 minuts  
+
+
+stander edation : SE :
+				core java , JDBC, AWT and Swing 
+Entriprice Edation : EE 
+				core java, JDBC , html , css, js 
+Mobl Edation : ME
+				core java , JDBC, Android 
+
+
+
+
+J2SE
+J2EE
+J2ME
+
 
 JDK :https://download.oracle.com/java/18/archive/jdk-18.0.2.1_windows-x64_bin.exe (sha256)
 
@@ -208,26 +222,457 @@ java and its basics
 				1: try and Catch , finally 
 				2) Throws , Throw 
 
-Error :  can not be Handeled 
-Exception : can be handeled 
+Write a ANSWER for all the QUESTION 
+
+	1 MultyThreading 
+	2 What is multythreading 
+	3 wht is multy processing 
+	4 and differnet b/tn both MT and MP 
+	5how to achive the multi threadfing 	
+	6 how may way to achive the multy threading 
+		using thread class 
+		implementinh runnable interface
+
+	7 Thread life cycle 
+	8 Steps to create a multy thread class 
+	9 list 15 methods in thread class 
+		and explain each method
+
+===========================================
+basics of java 
+OOps 
+	inheritance and its types 
+	polymrhisnm and its types 
+	Abstratcon and way to achive it
+		Abstarction 
+		interface  
+	Encupulation 
+
+Access Modifier 
+	public 
+	private 
+	protected 
+	default 							
+					
+Non Access modifiers 
+	abstract 
+	static 
+	final 
+Exception handling 
+	compile time 
+	run time 
+	Custom Exception 
+Multy Threding 
+	using
+		extends Thread class 
+		implemetnig Runnable interface 
+String / String buffer / builder /
+
+Arrays and Collection 
+Object class 
+etc...!
+
+
+Collection ...?
+1 )what is collection ? 
+2 )list the some 20 method in collection 
+3 ) list the class and interface in collection 
+4 ) difference between arraylist and linked list 
+5 ) differnet between  listy and set 
+6 ) what is iterator and its method 
+7 ) what  is map , how key and value pain will work 
+8 ) what is legacy class and list some of the class in java 
+9 ) sort, shefful , reverse and some methods...!
+10 ) What is generics ...!
+
+				Quickly Answers the below questions......!
+JDBC 
+
+1)What is JDBC ? 
+2)Stpes to to connect to mysql ?
+3)What is driver and its list the some of the driver name in jdbc 
+4) What is connection and extple the its paramanters 
+5)what is statement , and its types 
+	prepared 
+	batch
+	statment 
+6)execte , executeupdate, execuet query 
+7)What is result Set 
+8) What is result set meta data  , explain in detail,,,,,,,,,,,,,,,,,,,,,,!
+9) Types of driver 
+	Type 1 : jdbc - odbc driver 
+	Tye 2  :
+	Type 3 :
+	Type 4  : thin driver 
+10 : CRUD opration using JDBC 
+
+				
+
+		SERVLET: / JSP : 
+
+SERVLET : Server side coding lang which is used to create a web application ....!
+JSP : Java Server Page: server side coding which is used to create web applcaition 
+		using server: 
+				tomcat :
+Http: hyper text transfpor Protocal 
+
+Server 
+		tomcat :
+
+
+
+Clint 
+
+http://localhost:8081/WebDemo2/Login.html
+
+AWS: 
+Asure :
+or some server : cloud 
+https://facebook.com/Login
+
+
+com: commercial : 
+		facebook.com
+		yt.com
+		amezon.com
+		flipcark.com
+
+github.io
+edu
+	Eduaction platform :
+	
+	iitm.edu.in
+	lu.edu.uk
+
+	kar.edu.in
+
+
+HTTP : 
+		Http Request 
+		HttpRespoone 
+
+				servelt-api.jar
+
+
+		Quickly Answer all the below Question...............................
+
+1)What is servelt ? 
+2) how  Servlet works ? 
+3)what is http request and respoce ,Genceric Setrlvet
+
+4) doget / do post , and its differences 
+
+5) RequestDispatcher 
+	forward 
+	include
+6) CRDU operation using Servlet : banking domin , emp managmant 
+
+7)differencr Applcaition Context and cofing 
+8)Life cycle ,methods 
+
+
+9)JSP : 
+	1)life cycle 
+	2)JSP tags 
+		Declaration tag 
+		Screplet tag 
+		Expression tag 	
+
+	3)	implect objects
+			
+		out
+		request
+		responc
+		config
+		context/ Application
+		session
+		cookis
+		page
+		excetion
+	4)JSP Directives
+
+
+Servlet:
+JSP    :
+
+SQL : 
+		basics :
+			Operators : like , orderby, and or ,not 
+		Data Types :
+			int 
+			varchar
+			char
+			boolen
+			date
+			
+		COnstrients :
+			primary 
+			forign 
+			not null
+			check 
+			default 
+			uniquee
+		types of SQL :
+			DDL : Drop Rename Create Aalter Truncate 
+			DML : Delete , insert , update
+			DRL  : select 
+			TCL  : commit , rollback 
+			DCL : grant , revoke 
+		View 
+		users 
+
+
+			
+		Joins :
+				inner join 
+				ful join 
+				left join 
+				right join 
+
+		Sub Queries 
+		
+		
+
+
+SQL> create table emp1(id number(5),Name Varchar(10),Age number(10));
+
+Table created.
+
+SQL> create table emp2(id number(5),Plance Varchar(10),PH number(10));
+
+Table created.
+
+SQL> desc emp1;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ ID                                                 NUMBER(5)
+ NAME                                               VARCHAR2(10)
+ AGE                                                NUMBER(10)
+
+SQL> desc emp2;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ ID                                                 NUMBER(5)
+ PLANCE                                             VARCHAR2(10)
+ PH                                                 NUMBER(10)
+
+SQL> insert into emp1 values(1,'ABI',25);
+
+1 row created.
+
+SQL> insert into emp1 values(2,'Bharatg',35);
+
+1 row created.
+
+SQL> insert into emp1 values(3,'Charan',45);
+
+1 row created.
+
+SQL> insert into emp1 values(4,'Darshan',55);
+
+1 row created.
+
+SQL> select * from emp1;
+
+        ID NAME              AGE
+---------- ---------- ----------
+         1 ABI                25
+         2 Bharatg            35
+         3 Charan             45
+         4 Darshan            55
+
+SQL> insert into emp1 values(1,'AP',122345);
+
+1 row created.
+
+SQL> select * from emp1;
+
+        ID NAME              AGE
+---------- ---------- ----------
+         1 ABI                25
+         2 Bharatg            35
+         3 Charan             45
+         4 Darshan            55
+         1 AP             122345
+
+SQL> delete from  emp1 where name='AP';
+
+1 row deleted.
+
+SQL> select * from emp1;
+
+        ID NAME              AGE
+---------- ---------- ----------
+         1 ABI                25
+         2 Bharatg            35
+         3 Charan             45
+         4 Darshan            55
+
+SQL> insert into emp2 values(1,'AP',122345);
+
+1 row created.
+
+SQL> insert into emp2 values(2,'UP',122215);
+
+1 row created.
+
+SQL> insert into emp2 values(6,'MP',1225325);
+
+1 row created.
+
+SQL> insert into emp2 values(7,'KOL',12266665);
+
+1 row created.
+
+SQL> select * from emp1;
+
+        ID NAME              AGE
+---------- ---------- ----------
+         1 ABI                25
+         2 Bharatg            35
+         3 Charan             45
+         4 Darshan            55
+
+SQL> select * from emp2;
+
+        ID PLANCE             PH
+---------- ---------- ----------
+         1 AP             122345
+         2 UP             122215
+         6 MP            1225325
+         7 KOL          12266665
+
+SQL> select * from emp1 inner join emp2 on emp1.id=emp2.id;
+
+        ID NAME              AGE         ID PLANCE             PH
+---------- ---------- ---------- ---------- ---------- ----------
+         1 ABI                25          1 AP             122345
+         2 Bharatg            35          2 UP             122215
+
+SQL> select * from emp1 full join emp2 on emp1.id=emp2.id;
+
+        ID NAME              AGE         ID PLANCE             PH
+---------- ---------- ---------- ---------- ---------- ----------
+         1 ABI                25          1 AP             122345
+         2 Bharatg            35          2 UP             122215
+                                          6 MP            1225325
+                                          7 KOL          12266665
+         4 Darshan            55
+         3 Charan             45
+
+6 rows selected.
+
+SQL> select * from emp1 left join emp2 on emp1.id=emp2.id;
+
+        ID NAME              AGE         ID PLANCE             PH
+---------- ---------- ---------- ---------- ---------- ----------
+         1 ABI                25          1 AP             122345
+         2 Bharatg            35          2 UP             122215
+         4 Darshan            55
+         3 Charan             45
+
+SQL> select * from emp1 right join emp2 on emp1.id=emp2.id;
+
+        ID NAME              AGE         ID PLANCE             PH
+---------- ---------- ---------- ---------- ---------- ----------
+         1 ABI                25          1 AP             122345
+         2 Bharatg            35          2 UP             122215
+                                          6 MP            1225325
+                                          7 KOL          12266665
+
+SQL> select * from emp1 inner join emp2 on emp1.id=emp2.id;
+
+        ID NAME              AGE         ID PLANCE             PH
+---------- ---------- ---------- ---------- ---------- ----------
+         1 ABI                25          1 AP             122345
+         2 Bharatg            35          2 UP             122215
+
+SQL> select * from emp1 inner join emp2 on emp1.id=emp2.id where emp1.id=1;
+
+        ID NAME              AGE         ID PLANCE             PH
+---------- ---------- ---------- ---------- ---------- ----------
+         1 ABI                25          1 AP             122345
 
 
 
 
 
+
+
+create table employee
+(
+	id number(5) primary key,
+	Name varchar(8) not null ,
+	Age number(3) check(age < 100),
+	Salary number(6) check (salary > 25000),
+	Desig varchar(8) default 'GET',
+	Pan varchar(8) unique
+);
+
+
+
+
+ insert into employee(id,name,age,salary,pan) values(9999,'Thanesh',99,25001,'XYZ765');
+insert into employee values(888,'Suresh',56,50000,'Dev','XYZ177');
+
+alter table employee drop(pan);
+alter table employee rename column desig to desigantion;
+alter table employee add(PAN varchar(10));
+alter table employee modify( DESIGANTION varchar(15));
+
+
+rename employee to eyemployee;
+truncate table employee;: to delete all the record in table , but not the table 
+delete from employee where id=111;
+drop : it will delete all the record + table also 
+ update employee set pan='LMN123' where id=333;
+update employee set salary = 70000,  DESIGANTION='Sr Dev' where id=222;
+
+
+TCL :
+Commit: permenet stroge 
+Rollback : it can delete the non commited records 
+
+
+DCL : 
+		Data control Lang 
+
+
+VIEW : 
+
+ create view ey_emp as select id,name,DESIGANTION from employee;
+
+DCL : Data control lang 
+	grant 
+	revoke 
+
+
+create user myey_user identified by tiger;
+GRANT CREATE SESSION TO myey_user;
+
+connect myey_user/tiger;
+Connected.
+ grant select on employee to  myey_user;
+grant select,insert on employee to  myey_user;
+
+grant All privileges to myey_user;
+ revoke  all privileges from  myey_user;
+
+
+
+UML  + ER Diagram: 
+
+		Employee management 
+		Hotel Management 
+		Railway reservation system mamagenent 
+		
 
 
 
 	
 
 
-
-
-
-
-
-
-
+	
 
 
 
